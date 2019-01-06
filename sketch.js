@@ -1,4 +1,6 @@
 // Shlomi Lifshits (2019)
+// Based on this SVG from Wikipedia:
+// https://en.wikipedia.org/wiki/Knesset#/media/File:2019_Israeli_Knesset_Composition.svg
 
 var r = 12;
 var fill_value;
